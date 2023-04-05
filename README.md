@@ -1,4 +1,4 @@
-### Hi there, I'm Venkata Sai Kiran👋, People usually go with Kiran!
+### Hi there, I'm Venkata Sai Kiran👋, people usually go with Kiran!
 
 I am a CS graduate student at Texas Tech University. I enjoy learning new things everyday. I love cooking which actually reminds me of algorithms going in same way.
 
