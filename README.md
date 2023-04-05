@@ -6,7 +6,7 @@ I am a CS graduate student at Texas Tech University. I enjoy learning new things
 - 🌱 I’m currently learning software development, very much interested in UI/Frontend development, SDLC.
 - 👯 I’m looking to collaborate on developing web applications.
 
-- 💬 Ask me about web development, electronics, Philosophy, Indian cuisines.
+- 💬 Ask me about web development, electronics, philosophy, indian cuisines.
 - 📫 Reach me: venkatasaikiran.kureti@yahoo.com
 - 😄 Pronouns: He/Him
 
