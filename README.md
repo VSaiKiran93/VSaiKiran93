@@ -1,14 +1,39 @@
 ### Hi there, I'm Venkata Sai Kiran👋, people usually go with Kiran!
+<h1 align="center">Hi 👋, I'm Kiran</h1>
+<h3 align="center">I am a recent CS graduate from Texas Tech University currently seeking full-time positions. I enjoy learning new things every day. I love cooking which actually reminds me of algorithms going in the same way.</h3>
 
-I am a recent CS graduate from Texas Tech University currently seeking full-time positions. I enjoy learning new things every day. I love cooking which actually reminds me of algorithms going in the same way.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vsaikiran93&label=Profile%20views&color=0e75b6&style=flat" alt="vsaikiran93" /> </p>
 
-- 🔭 I’m currently working on my portfolio website using React.js for my career growth professionally!
-- 🌱 I’m currently learning software development, very much interested in Software Engineering, Backend, Frontend development, Cloud Computing, SDLC, Data Analytics.
-- 👯 I’m open to collaborating, and contributing to one's business needs in achieving their objectives.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vsaikiran93" alt="vsaikiran93" /></a> </p>
 
-- 💬 Ask me about web development, philosophy, and Indian cuisines.
-- 📫 Reach me: venkatasaikiran.kureti@yahoo.com
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on **on my portfolio website using react**
 
-- ⚡ Fun fact: ...
---> Did you know that the original name for the programming language "Python" was not inspired by the snake, but rather by the British comedy group Monty Python? The creator of Python, Guido van Rossum, was a fan of the group and decided to name his language after them. In fact, the language's official documentation has numerous references to Monty Python sketches and jokes.
+- 🌱 I’m currently learning **software development, very much interested in Software Engineering, Backend, Frontend development, Cloud Computing, SDLC, Data Analytics.**
+
+- 👯 I’m looking to collaborate on **web dev and cloud projects**
+
+- 💬 Ask me about **web development, philosophy, and Indian cuisines.**
+
+- 📫 How to reach me **venkatasaikiran.kureti@yahoo.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkatasaikiran-kureti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatasaikiran-kureti/" height="30" width="40" /></a>
+<a href="https://medium.com/@venkata sai kiran kureti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@venkata sai kiran kureti" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/kiran893" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kiran893" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/venkatasaikiran8?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/venkatasaikiran8?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/kiran893/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kiran893/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsaikiran93&show_icons=true&locale=en&layout=compact" alt="vsaikiran93" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaikiran93&show_icons=true&locale=en" alt="vsaikiran93" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsaikiran93&" alt="vsaikiran93" /></p>
