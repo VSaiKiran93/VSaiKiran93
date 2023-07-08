@@ -1,4 +1,3 @@
-### Hi there, I'm Venkata Sai Kiran👋, people usually go with Kiran!
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">I am a recent CS graduate from Texas Tech University currently seeking full-time positions. I enjoy learning new things every day. I love cooking which actually reminds me of algorithms going in the same way.</h3>
 
