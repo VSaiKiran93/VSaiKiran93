@@ -1,12 +1,12 @@
 ### Hi there, I'm Venkata Sai Kiran👋, people usually go with Kiran!
 
-I am a CS graduate student at Texas Tech University. I enjoy learning new things everyday. I love cooking which actually reminds me of algorithms going in same way.
+I am a recent CS graduate from Texas Tech University currently seeking full-time positions. I enjoy learning new things every day. I love cooking which actually reminds me of algorithms going in the same way.
 
-- 🔭 I’m currently working on my master's project which is on developing a hackers toolkit using Django!
+- 🔭 I’m currently working on my portfolio website using React.js for my career growth professionally!
 - 🌱 I’m currently learning software development, very much interested in Software Engineering, Backend, Frontend development, Cloud Computing, SDLC, Data Analytics.
-- 👯 I’m looking to collaborate on developing web applications.
+- 👯 I’m open to collaborating, and contributing to one's business needs in achieving their objectives.
 
-- 💬 Ask me about web development, electronics, philosophy, indian cuisines.
+- 💬 Ask me about web development, philosophy, and Indian cuisines.
 - 📫 Reach me: venkatasaikiran.kureti@yahoo.com
 - 😄 Pronouns: He/Him
 
