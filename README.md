@@ -32,8 +32,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/VSaiKiran93">
-<img align="center" alt="Kiran's Github stats"
-src="https://github-readme-stats.vercel.app/api?username=VSaiKiran93&show_icons=true&bg_color=00000000"/>
+
 </a>
    </p>
  <br>
