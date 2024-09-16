@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning software development lifecycle📝<br>🔭 My research interests are AI, NLP, Software Engineering<br>👯 I’m looking to collaborate with other open-source developers 🎥<br>👨🏻‍💻 Goals: Contribute more to Open Source projects 👨🏻‍💻<br>📫 How to reach me venkatasaikiran.kureti@yahoo.com
+🌱 I’m currently learning software development lifecycle📝<br>🔭 My research interests are AI, NLP, Software Engineering<br>👯 I’m looking to collaborate with other open-source developers 🎥<br>👨🏻‍💻 Goals: Contribute more to Open Source projects 👨🏻‍💻<br>📫 
 
 
 ## 🌐 Socials:
